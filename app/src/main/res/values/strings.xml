@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">LongevityTask</string>
+    <string name="login">Login</string>
+    <string name="register">Register</string>
+    <string name="enter_your_email">Enter Your Email</string>
+    <string name="enter_your_password">Enter Your Password</string>
+    <string name="fill_every_field">Please Fill Every Field</string>
+    <string name="you_havent_registered">You Haven\'t Registered</string>
+    <string name="you_are_registered">You Are Registered</string>
+    <string name="you_logged_in">You Are Logged In</string>
+    <string name="already_logged_in">You Are Already Logged In</string>
+    <string name="sign_out">Sign Out</string>
+    <string name="signed_out">Signed Out</string>
+</resources>

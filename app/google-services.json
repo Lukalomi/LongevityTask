@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "783832231133",
+    "project_id": "longevityintime-a72b8",
+    "storage_bucket": "longevityintime-a72b8.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:783832231133:android:d15cccfd19a772ecf3bf34",
+        "android_client_info": {
+          "package_name": "com.example.longevitytask"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "783832231133-asr6vt7k0rul0j8mgni6e4spdrqpcq2k.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB12yC3I5tnQ-nvbsxLQKf3uwm1lhIKgYs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "783832231133-asr6vt7k0rul0j8mgni6e4spdrqpcq2k.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
