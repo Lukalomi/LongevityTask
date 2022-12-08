@@ -1,8 +1,7 @@
 # LongevityTask
 See Master Branch For The Code
 
-<img src="[https://github.com/favicon.ico](https://user-images.githubusercontent.com/63911224/206403062-a07143b9-4c2e-4a9f-8972-b2e5b5d5cd8b.jpg)" width="200">
-
+<img src="https://user-images.githubusercontent.com/63911224/206403062-a07143b9-4c2e-4a9f-8972-b2e5b5d5cd8b.jpg" width="200">
 
 ![login_longevity](https://user-images.githubusercontent.com/63911224/206403081-a05a3e1d-f7bb-401c-a436-c4a55e441dad.jpg)
 ![register_longevity](https://user-images.githubusercontent.com/63911224/206403087-8684a1ae-0e0c-465e-8d6c-6f4e187dafc6.jpg)
